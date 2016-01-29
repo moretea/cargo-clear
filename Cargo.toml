@@ -1,0 +1,9 @@
+[package]
+name = "cargo-clear"
+version = "0.1.0"
+authors = ["Maarten Hoogendoorn <maarten@moretea.nl>"]
+description="Clears a UNIX terminal by running 'tput reset'"
+homepage="https://github.com/moretea/cargo-clear"
+repository="https://github.com/moretea/cargo-clear"
+keywords = [ "cargo", "watch", "clear"]
+license="GPL-3.0"
